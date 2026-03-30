@@ -1,0 +1,7 @@
+{
+  "prompt": "A single-frame editorial illustration about global poverty as lived human compression, not a chart. Show an enormous mass of diverse human figures crowded into a dark, low-ceilinged underground space, shoulder to shoulder, with barely enough room to stand or breathe. Above them, only a small upper layer opens into wide light, air, and space, where a small number of figures stand comfortably. The composition should make it instantly clear that most of humanity remains near subsistence while only a minority lives with real economic ease. Emotion: claustrophobic, heavy, sobering, humane, dignified, not melodramatic. Visual style: long-form magazine opener, cinematic, restrained color palette, strong figure-ground contrast, high compositional intent, no text. Do not use charts, bars, pie slices, graphs, axes, labels, legends, globes, coins, thermometers, business icons, or generic infographic design.",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "dataset_name": "Our World in Data – Poverty",
+  "dataset_url": "https://ourworldindata.org/poverty",
+  "insight": "More than half the world still lives on less than $10 a day, showing that escaping extreme poverty is not the same as reaching economic security."
+}
